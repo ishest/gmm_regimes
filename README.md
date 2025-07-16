@@ -3,7 +3,7 @@ This repository contains the complete code, data pipeline, and documentation for
 
 gmm_regimes/
 ├── data/
-│   └── spy_mwf.csv               
+│   └── spy_mwf.csv
 ├── src/
 │   ├── data_loader.py
 │   ├── feature_engineer.py
@@ -12,6 +12,7 @@ gmm_regimes/
 │   └── main.py
 ├── requirements.txt
 └── README.md
+
 
 # GMM-Based Market Regime Detection
 
